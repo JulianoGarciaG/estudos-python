@@ -114,9 +114,8 @@ jupyter notebook
 
 ## 📬 Contato
 
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/julianogarciagregorio/)
+- LinkedIn: [Juliano Garcia Gregório](https://www.linkedin.com/in/julianogarciagregorio/)
 
----
 
 **Status**: Em progresso na carreira 📈  
 **Última atualização**: 2026
